@@ -1,0 +1,7 @@
+Archive: stable
+Version: 1.0
+Component: main
+Origin: thundersoft-sriov-jammy
+Label: thundersoft-sriov-jammy
+Architecture: amd64
+Description: Intel Graphics SR-IOV On Debian

@@ -1,0 +1,60 @@
+Package: linux-headers-6.6.32-ubuntu-sriov
+Architecture: amd64
+Version: 6.6.32-g40262599b6a4-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: idv <idv@idv-Ubuntu-24-04-PC-i440FX-PIIX-1996>
+Installed-Size: 55258
+Filename: pool/main/l/linux/linux-headers-6.6.32-ubuntu-sriov_6.6.32-g40262599b6a4-1_amd64.deb
+Size: 9690026
+MD5sum: f8501dc1011bd64f2a13733db97ca5aa
+SHA1: ef0bd1db2e72d097d42502a2707c256ac8661abb
+SHA256: 577fb8ed98116ab3dd2346b68574955bad8cbbed901de2b2948cc409b6265dd7
+SHA512: aeb9181887b30f3af0b0ad8022c3d6952238798e4fc38c7ddc8c8366c059d1e0b419cee9176ae0c1f1a10638259a5a14da69052e17c02017bd60c4bdf0609706
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.6.32-ubuntu-sriov on amd64
+ This package provides kernel header files for 6.6.32-ubuntu-sriov on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-6.6.32-ubuntu-sriov
+Architecture: amd64
+Version: 6.6.32-g40262599b6a4-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: idv <idv@idv-Ubuntu-24-04-PC-i440FX-PIIX-1996>
+Installed-Size: 405528
+Filename: pool/main/l/linux/linux-image-6.6.32-ubuntu-sriov_6.6.32-g40262599b6a4-1_amd64.deb
+Size: 84196338
+MD5sum: ba0743aabbd61815c5c6e346032751a5
+SHA1: 7d2edeb2389421552d0db3b3431586f99b0fb7a8
+SHA256: f307c8cf41bbe5782dbd5e668caf37dc14618a0294fa9631371f2ffdef93c025
+SHA512: 4208ca0dee04088f447118b64d14745319c0ba0da0575b8543cf6f35cb784ee50788b71df1a75cafb186c2f67f6b5262a856887aba00beeb643b0e4376c91be8
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.6.32-ubuntu-sriov
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.6.32-ubuntu-sriov.
+
+Package: linux-libc-dev
+Architecture: amd64
+Version: 6.6.32-g40262599b6a4-1
+Multi-Arch: same
+Priority: optional
+Section: devel
+Source: linux-upstream
+Maintainer: idv <idv@idv-Ubuntu-24-04-PC-i440FX-PIIX-1996>
+Installed-Size: 6854
+Provides: linux-kernel-headers
+Filename: pool/main/l/linux/linux-libc-dev_6.6.32-g40262599b6a4-1_amd64.deb
+Size: 1365632
+MD5sum: de1185a0a8143cbb994cf612f327f749
+SHA1: 6cc848aa7371c34bf87dd7104066f30722aca1cf
+SHA256: 61f06cc0dbc771778fdad7f2bc16e08b4874f75b375deeb9f5915d8e144a5a07
+SHA512: e955cc4a1d0c4efb6f760679b179fed9a18e36b7229e89cb9cbbe99a24e5a69fff049221b21d8499a8d072e15781df3b1483300069dbbfac38e012223105d3e3
+Homepage: https://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+

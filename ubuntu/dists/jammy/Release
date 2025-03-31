@@ -1,0 +1,28 @@
+Label: thundersoft-sriov-jammy
+Suite: stable
+Codename: jammy
+Version: 1.0
+Date: Mon, 31 Mar 2025 01:54:25 +0000
+Architectures: amd64
+Components: main
+Description: Intel Graphics SR-IOV On Debian
+MD5Sum:
+ 4b14aeacc95ca6c44750f4c262c6f71b               38 Release
+ e272366a65c0b40f20cc55f4bc6e747d             2626 main/binary-amd64/Packages
+ 1191ae36a648c6f47580b54866220d3b             1121 main/binary-amd64/Packages.gz
+ f51a762cad1fef804c277d35e6b70147              173 main/binary-amd64/Release
+SHA1:
+ eaa29e5657f7935f24ebe42a92150ad993c20b0f               38 Release
+ 9b928a550ac70e70e3eac877f2fac59b16ff827c             2626 main/binary-amd64/Packages
+ a4cb3944b58f5b784b65edc0398ddf0c994acc82             1121 main/binary-amd64/Packages.gz
+ dc733d8ba00a18d23acc1c8ec92ae3468b1ce961              173 main/binary-amd64/Release
+SHA256:
+ c19d409d48699360d5a6a0aae81b63c50663e3ca9eeb9cfeb48cab0e552d01f3               38 Release
+ f5c7acc7938e228aea9387152c4e71af861a2b27c5951a4aa339b23a1b9ba16d             2626 main/binary-amd64/Packages
+ d6de0d469375cdec8861067141222372d91cfacc6b61669cd2132e555b9da037             1121 main/binary-amd64/Packages.gz
+ f6367420fef718171123867ff698ccc92b4368c3b3cbc3f59e24c64223d7a5d1              173 main/binary-amd64/Release
+SHA512:
+ 1de587995a4704da9e27c55cf6a3ea4b4776cf0888c9e325b105276924effa7f0ef6c8dc8f618434c0eb812ebade6a719583896511a6ff85d87804e093769985               38 Release
+ 48ee9972d551e9159bd1a20e14f34f1d827b2602b5755262a6bddebc193c2e3189211d61e1d532af9fa002e9a577387a7251eb177d379195da1443eff759e77c             2626 main/binary-amd64/Packages
+ 9ff2e15b287d306c819833919661fed4ca0a54a10b9f54e5c4bfbbe6f5ff0f11651d6780d892dc5653cc45c84e598bb851692830f6aa534289dfb5078645a2d6             1121 main/binary-amd64/Packages.gz
+ b041ccbba3bc37239f341c23426f45621e22ffb323bef1c863a318740bd7de28d3b1a92d46eae43ad9262a7dad8f3620d526e8f05d2ebeba263df2116f6b5813              173 main/binary-amd64/Release
